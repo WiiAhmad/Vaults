@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8780b16f1245fccd",
+        "id": "47da869bd6b2fd13",
         "type": "tabs",
         "children": [
           {
-            "id": "801b9a93b40870f5",
+            "id": "70944d97f75c6f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
+                "file": "Mathematics/Linear algebra/Chapter 3_ Computational linear algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "7dcb91c75a3768a3",
@@ -88,35 +87,6 @@
         "id": "b0573f0c77a254ee",
         "type": "tabs",
         "children": [
-          {
-            "id": "d8837a168bb7d2e7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "99ec26e8c41d3271",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "6fc3d4e5b474eb74",
             "type": "leaf",
@@ -129,17 +99,36 @@
             }
           },
           {
-            "id": "17198e5890d3f845",
+            "id": "422467fa098747a0",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Quant/0. FIN & Econ Theory/Capital Market/4. Options Trading Strategies.md"
+                "file": "Mathematics/Linear algebra/Chapter 3_ Computational linear algebra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dea00adaa0bd7b1a",
+            "id": "834dc7e12c1e4341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics/Linear algebra/Chapter 3_ Computational linear algebra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7d08d92e2db2d0d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,9 +138,18 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "63df744002e416a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathematics/Linear algebra/Chapter 3_ Computational linear algebra.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,57 +163,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "801b9a93b40870f5",
+  "active": "70944d97f75c6f12",
   "lastOpenFiles": [
+    "Mathematics/Linear algebra/Chapter 2_ Intro to linear algebra.md",
+    "Mathematics/Linear algebra/Chapter 1_ Math fundamentals.md",
+    "Mathematics/Vectors.md",
+    "Mathematics/Practice problems.md",
+    "Mathematics/part0010_split_026.md",
+    "Mathematics/part0010_split_025.md",
+    "Mathematics/part0010_split_024.md",
+    "Mathematics/part0010_split_023.md",
+    "Mathematics/part0010_split_022.md",
+    "Mathematics/part0010_split_021.md",
+    "Mathematics/part0010_split_020.md",
+    "Mathematics/part0010_split_019.md",
+    "Mathematics/part0010_split_017.md",
+    "Mathematics/part0010_split_016.md",
+    "Mathematics/part0010_split_015.md",
+    "Mathematics/part0010_split_013.md",
+    "Mathematics/part0010_split_012.md",
+    "Mathematics/part0010_split_011.md",
+    "Mathematics/part0010_split_010.md",
+    "Mathematics/part0010_split_009.md",
+    "Mathematics/part0010_split_008.md",
+    "Mathematics/part0010_split_007.md",
+    "Mathematics/part0010_split_006.md",
+    "Mathematics/part0010_split_005.md",
+    "Mathematics/part0010_split_004.md",
+    "Mathematics/part0010_split_003.md",
+    "Mathematics/images/00015.jpeg",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
     "Z-Archive/Pictures/FIN",
     "Z-Archive/Pictures/FIN/covered call.png",
-    "Quant/0. FIN & Econ Theory/Capital Market/3. Securities.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/2. Markets.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/1. Overview.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/8. Formula.md",
-    "Quant/0. FIN & Econ Theory/Capital Market/7. Capital Market and Money Market.md",
-    "Cryptography/3. Data encryption standards and replacement algorithms/1. DES (Data Encryption Standard).md",
-    "Cryptography/2. Sequence ciphers/3. Shift Register Based Sequence Cipher.md",
-    "Cryptography/2. Sequence ciphers/2. Random Numbers and Unbreakable Block Ciphers.md",
-    "Cryptography/2. Sequence ciphers/1. Sequence Ciphers and Block Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/2. Cryptanalysis.md",
-    "Cryptography/1. Cryptography and Data Security/3. Modular Arithmetic and Various Classical Ciphers.md",
-    "Cryptography/1. Cryptography and Data Security/1. Symmetric Cryptography.md",
     "Cryptography/3. Data encryption standards and replacement algorithms",
     "Cryptography/2. Sequence ciphers",
     "Cryptography/1. Cryptography and Data Security",
     "Cryptography",
-    "Blockchain/1. Basics and Fundamentals/1. History and Evolution.md",
     "Z-Archive/Pictures/Crypto/Trivium.png",
     "Z-Archive/Pictures/Crypto/LSFR2.png",
     "Z-Archive/Pictures/Crypto/LSFR1.png",
     "Z-Archive/Pictures/Crypto",
-    "Computer Organization and Architecture/1. Representation and Operations/1. Arithmetic Methods And Circuits.md",
-    "Computer Organization and Architecture/1. Representation and Operations/0. Number system and coding.md",
     "Computer Organization and Architecture/1. Representation and Operations",
-    "Computer Organization and Architecture/0. A High-Level Discription/1. Computer Performance.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/2. Terminology.md",
-    "Computer Organization and Architecture/0. A High-Level Discription/0.  Codes running.md",
     "Computer Organization and Architecture/0. A High-Level Discription",
-    "Blockchain/1. Basics and Fundamentals/1.2 History and Evolution.md",
-    "Blockchain/1. Basics and Fundamentals/1.1 The Millennia Evolution of Ledger Technology.md",
-    "Blockchain/1. Basics and Fundamentals/0. Blockchain.md",
-    "Git/3. Basic Commands.md",
-    "Git/5. Remote Repositories.md",
-    "Git/6. Advanced Git Features.md",
-    "Git/7. Common Issues.md",
     "Quant/2. Financial Derivatives",
     "Quant/1. Assets",
     "Z-Archive/Pictures/Programming/Java relationship.png",
     "Z-Archive/Pictures/Stats-ML/multi-language-nlp.png",
     "Z-Archive/Pictures/Stats-ML/context-free-grammer.png",
-    "Z-Archive/Pictures/Stats-ML/ROC-AUC.png",
-    "Z-Archive/Pictures/Stats-ML/GRU.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
