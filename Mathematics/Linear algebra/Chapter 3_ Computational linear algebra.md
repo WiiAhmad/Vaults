@@ -1,6 +1,6 @@
 Chapter 3      
 
-#[Chapter 3 Computational linear algebra](./Chapter 3_ Computational linear algebra.md)
+# [Chapter 3 Computational linear algebra](./Chapter 3_ Computational linear algebra.md)
 
 This chapter covers the computational aspects of performing matrix calculations. Understanding matrix computations is important because the rest of the chapters in this book depend on them. Suppose we’re given a huge matrix ![A \in \mathbb{R}^{n\times n}](./images/2f056442410016d3a541715471950849562de0c4.png) with ![n=1000](./images/cc596b6caace4df8560e478ec587dc41aedc4db6.png). Behind the innocent-looking mathematical notation of the matrix inverse ![A^{-1}](./images/470721386b3ed37ecad20851d6614bec164aa877.png), the matrix product ![AA](./images/dfbc1f0037cdee2cd7dac10a1ce7b5ae8f8d6616.png), and the matrix determinant ![\textrm{det}(A)](./images/15858c058152cc1c34d1695876240fa759d3ff0a.png), are hidden monster computations involving all the ![1000\times 1000 = 1](./images/3688af4ee69291cde89a4b6725ca12b5029e5875.png) million entries of the matrix ![A](./images/a7ebd3de1e7c66767d8b53415ef903d9b496a427.png). Millions of arithmetic operations must be performed…so I hope you have at least a thousand pencils ready!
 
@@ -8,7 +8,7 @@ Okay, calm down. I won’t _actually_ make you calculate millions of arithmetic 
 
 This chapter will introduce you to four important computational tasks involving matrices.
 
-#####[Gauss–Jordan elimination](./Front matter.md)
+##### [Gauss–Jordan elimination](./Front matter.md)
 
 Suppose we’re trying to solve two equations in two unknowns ![x](./images/59f89ea6383d6a43ea38a038a1484f5ce8cf2526.png) and ![y](./images/32b4f839fd5a7c4051bbc31f343b40bfdb30bc3b.png):
 

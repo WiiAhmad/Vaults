@@ -9,3 +9,7 @@ In[Section 1.1](part0001_split_001.md), we learned how to _isolate_ the unknown
 In[Section 2.2](part0002_split_002.md), we’ll use algebra to derive a general formula for solving quadratic equations of the form ![ax^2+bx+c=0](00340.jpeg). Knowing how to solve quadratic equations is really important because they show up all over the place.
 
 Alright! Are you ready for algebra? Let’s get started!
+
+#[Chapter 2 Algebra](Linear algebra/Chapter 1_Math fundamentals.md)
+
+
