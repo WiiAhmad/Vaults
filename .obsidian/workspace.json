@@ -43,6 +43,14 @@
             }
           },
           {
+            "id": "ea524968008acb6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "fd15b7c9e49ac477",
             "type": "leaf",
             "state": {
@@ -58,14 +66,6 @@
             }
           },
           {
-            "id": "a16cfca35d6d24dd",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "21ba460aa745ff57",
             "type": "leaf",
             "state": {
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             }
           },
           {
-            "id": "422467fa098747a0",
+            "id": "6ccade01ab79fba7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -116,7 +117,7 @@
             }
           },
           {
-            "id": "834dc7e12c1e4341",
+            "id": "28c61bf9d754b877",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -128,7 +129,7 @@
             }
           },
           {
-            "id": "e7d08d92e2db2d0d",
+            "id": "bfd64d63b97d07a4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,7 +141,7 @@
             }
           },
           {
-            "id": "63df744002e416a5",
+            "id": "2541adb708ee63f3",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -167,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70944d97f75c6f12",
+  "active": "6fc3d4e5b474eb74",
   "lastOpenFiles": [
+    "Mathematics/Linear algebra/Chapter 3_ Computational linear algebra.md",
     "Mathematics/Linear algebra/Chapter 2_ Intro to linear algebra.md",
     "Mathematics/Linear algebra/Chapter 1_ Math fundamentals.md",
     "Mathematics/Vectors.md",
@@ -194,7 +196,6 @@
     "Mathematics/part0010_split_006.md",
     "Mathematics/part0010_split_005.md",
     "Mathematics/part0010_split_004.md",
-    "Mathematics/part0010_split_003.md",
     "Mathematics/images/00015.jpeg",
     "Z-Archive/Pictures/FIN/bull spread.png",
     "Z-Archive/Pictures/FIN/protective put.png",
